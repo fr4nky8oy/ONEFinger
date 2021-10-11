@@ -1,6 +1,3 @@
-One-Finger feature extractor download link
-
-
  The ONE-Finger is a feature extractor inspired by the simplicity of the iOS and Android finger-based interaction system used with iOS and Android portable handsets and tablets. It also takes inspiration from Björk - Reactable instrument: 
 https://www.youtube.com/watch?v=Ni_x_74VKU0&ab_channel=OfficialDeathCubeK 
  
